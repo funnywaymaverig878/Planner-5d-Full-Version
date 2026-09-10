@@ -235,3 +235,6 @@ This repository serves as the official landing page for **Planner 5D**. The soft
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Planner 5D today!**
+
+---
+**Last updated:** 2026-09-10 08:27:35 UTC
